@@ -2,7 +2,7 @@
 
 #### ⭐ Star us on GitHub — it motivates a lot!
 
-Simple NodeJs API project based on brazilian bank account with some validations.
+Simple ReactJs consume API project based on brazilian bank account.
 
 ## Project Status
 
